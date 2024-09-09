@@ -24,7 +24,7 @@ I used SQL to retrieve and aggregate the necessary data, then leveraged Python t
 
 The outcome of my work is an interactive Tableau dashboard.
 
-▶️ [Tableau Dashboard](https://public.tableau.com/shared/X7FGSZF6Y?:display_count=n&:origin=viz_share_link)
+▶️ [Interactive Tableau Dashboard](https://public.tableau.com/shared/X7FGSZF6Y?:display_count=n&:origin=viz_share_link)
 
 By streamlining the data extraction process and creating an interactive dashboard, I improved efficiency and enabled stakeholders and department managers to easily identify key loan trends, supporting data-driven decision-making.
 
