@@ -1,0 +1,6 @@
+.env
+sqlenv/
+*.dylib
+*.so
+*.dll
+*.pdb
