@@ -16,7 +16,8 @@ I used SQL to retrieve and aggregate the necessary data, then leveraged Python t
 
 **MySQL Workbench screen displaying sample queries**
 
-![sql_queries.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d3caf548-e434-436b-8194-a0c1b31c7791/c6a23d96-a4a4-4095-a5bf-8f662aba6728/sql_queries.png)
+![sql_queries.png](https://github.com/NGravereaux/bank-loan-sql-tableau-project/blob/main/img/sql_queries.png)
+
 
 
 ### Result
@@ -27,7 +28,8 @@ The outcome of my work is an interactive Tableau dashboard.
 
 By streamlining the data extraction process and creating an interactive dashboard, I improved efficiency and enabled stakeholders and department managers to easily identify key loan trends, supporting data-driven decision-making.
 
-![bank_loan_dashboard.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d3caf548-e434-436b-8194-a0c1b31c7791/4052930b-0b8b-493f-9a3f-8b211322ee8b/bank_loan_dashboard.png)
+![bank_loan_dashboard.png](https://github.com/NGravereaux/bank-loan-sql-tableau-project/blob/main/img/bank_loan_dashboard.png)
+
 
 ### Impact
 
